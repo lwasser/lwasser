@@ -2,12 +2,12 @@
 I'm Leah (she/her). Pronounced like lay-ah you know like star wars?
 I'm a data geek, open education and open science advocate. 
 
-My works empowers people with the skills needed to get jobs in tech.
+My work empowers people with the skills needed to get jobs in tech.
 I use my privilege to empower others when I can.
 
 In my free time I'm running the trails in the mountains of Colorado.
 Ultra distances are my thing.
-[Learn more about my work](https://www.leahwasser.com)
+[Learn more about me here.](https://www.leahwasser.com)
  
 
 
