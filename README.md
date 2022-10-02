@@ -8,8 +8,16 @@ I use my privilege to empower others when I can.
 In my free time I'm running the trails in the mountains of Colorado.
 Ultra distances are my thing.
 [Learn more about me here.](https://www.leahwasser.com)
+
+## Where you can find me now
+
+I'm currently the [Executive Director of pyOpenSci](https://www.pyopensci.org).
+[You can follow me on twitter here to see what i'm up to.](https://www.twitter.com/leahawasser).
  
 
+## My stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=lwasser&show_icons=true)
 
 <!--
 **lwasser/lwasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
