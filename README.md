@@ -15,9 +15,9 @@ I'm currently the [Executive Director of pyOpenSci](https://www.pyopensci.org).
 [You can follow me on twitter here to see what i'm up to.](https://www.twitter.com/leahawasser).
  
 
-## My stats
+## Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=lwasser&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=lwasser&theme=aura&show_icons=true)
 
 <!--
 **lwasser/lwasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Visitors (Since 1 March 2023)
+
+![Counter](https://count.getloli.com/get/@lwasser?theme=rule34)
