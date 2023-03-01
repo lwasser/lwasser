@@ -17,8 +17,8 @@ I'm currently the [Executive Director of pyOpenSci](https://www.pyopensci.org).
 
 ## Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=lwasser&theme=aura&show_icons=true)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=lwasser&theme=aura&hide_title=true&show_icons=true&include_all_commits=true&count_private=true)
+![leahs's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lwasser&theme=aura&hide_title=true&layout=compact&langs_count=10)
 <!--
 **lwasser/lwasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
