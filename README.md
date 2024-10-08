@@ -5,14 +5,13 @@ I'm a data geek, open education and open science advocate.
 My work empowers people with the skills needed to get jobs in tech.
 I use my privilege to empower others when I can.
 
-In my free time I'm running the trails in the mountains of Colorado.
-Ultra distances are my thing.
+I'm a retired mountain ultra runner turned mountain hiker and crossfitter. In my free time I'm on the trails in the mountains of Colorado with my rescue pup.
 [Learn more about me here.](https://www.leahwasser.com)
 
 ## Where you can find me now
 
 I'm currently the [Executive Director of pyOpenSci](https://www.pyopensci.org).
-[You can follow me on twitter here to see what i'm up to.](https://www.twitter.com/leahawasser).
+You can follow me on [Fosstodon](https://fosstodon.org/@leahawasser) or [LinkedIn](https://www.linkedin.com/in/leahawasser/) to see what I'm up to.
  
 
 ## Stats
