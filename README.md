@@ -5,6 +5,8 @@ I'm a data geek, open education and open science advocate.
 My work empowers people with the skills needed to get jobs in tech.
 I use my privilege to empower others when I can.
 
+I invested in the open source ecosystem and maintain a Python package called stravalib that helps you pull your strava data using their API!
+
 I'm a retired mountain ultra runner turned mountain hiker and crossfitter. In my free time I'm on the trails in the mountains of Colorado with my rescue pup.
 [Learn more about me here.](https://www.leahwasser.com)
 
