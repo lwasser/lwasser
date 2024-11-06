@@ -21,7 +21,7 @@ You can follow me on [Fosstodon](https://fosstodon.org/@leahawasser) or [LinkedI
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lwasser&theme=aura&hide_title=true&show_icons=true&include_all_commits=true&count_private=true)
 ![leahs's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lwasser&theme=aura&hide_title=true&layout=compact&langs_count=10&hide=html)
 
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.isocalendar.svg)
 
 ### Visitors (Since 1 March 2023)
 
