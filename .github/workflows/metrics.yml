@@ -15,6 +15,10 @@ jobs:
           token: ${{ secrets.GH_METRICS }}
           # Repository-specific GITHUB_TOKEN for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          # Fancy isometric calendar
+          filename: metrics.plugin.isocalendar.svg
+          base: ""
+          plugin_isocalendar: yes
 
           # Options
           user: lwasser
