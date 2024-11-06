@@ -1,8 +1,8 @@
 # Based off of https://github.com/lowlighter/metrics
 name: Metrics
 on:
-  # Daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  # Weekly updates
+  schedule: [{cron: "0 0 * * 1"}]
   push: {branches: ["master", "main"]}
   workflow_dispatch:
 jobs:
