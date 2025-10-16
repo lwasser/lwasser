@@ -5,9 +5,11 @@ I'm a data geek, open education and open science advocate.
 My work empowers people with the skills needed to get jobs in tech.
 I use my privilege to empower others when I can.
 
-I invested in the open source ecosystem and maintain a Python package called stravalib that helps you pull your strava data using their API!
+I invested in the open source ecosystem.
+I maintain a Python package called stravalib that helps you pull your strava data using their API!
+I also maintian a friendly bot called the ✨ [all-contributors bot](https://github.com/all-contributors/all-contributors/)✨ . The bot is a javascript app and CLI that makes it easy for you to acknowledge contributions of all kinds of contributions with a simple comment on an issue or pull request. ✨ Contribuing is more than just code!! 
 
-I'm a retired mountain ultra runner turned mountain hiker and crossfitter. In my free time I'm on the trails in the mountains of Colorado with my rescue pup.
+I'm a retired mountain ultra runner turned mountain hiker and crossfitter. In my free time I'm on the trails in the mountains of Colorado with my rescue pup or teaching myself fun tricks at the gym like bar muscleups.
 [Learn more about me here.](https://www.leahwasser.com)
 
 ## Where you can find me now
